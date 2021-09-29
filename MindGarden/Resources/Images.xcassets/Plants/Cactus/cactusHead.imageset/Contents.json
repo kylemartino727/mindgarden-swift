@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "cactusHead.svg",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
